@@ -1,0 +1,7 @@
+patch:
+  "style/locale": zh_CN # 预设语言
+  "preset_keys/space":
+    repeatable: true
+    functional: false
+    label: "空格"
+    send: space
