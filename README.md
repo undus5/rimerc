@@ -13,7 +13,8 @@
   - [iRime](https://itunes.apple.com/cn/app/irime-shu-ru-fa/id1142623977?l=en&mt=8)
 
 - *nix
-  - [Fcitx](https://github.com/fcitx/fcitx-rime): ~/.config/fcitx/rime (Recommanded)
+  - [Fcitx](https://github.com/fcitx/fcitx-rime): ~/.config/fcitx/rime
+  - [Fcitx 5](https://github.com/fcitx/fcitx-rime): ~/.local/share/fcitx5/rime
   - [IBus](https://github.com/rime/ibus-rime): ~/.config/ibus/rime
   - [Squirrel](https://github.com/rime/squirrel): ~/Library/Rime
 
