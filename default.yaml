@@ -4,10 +4,17 @@
 config_version: '0.40'
 
 schema_list:
-    - schema: wubi98_mini
+  - schema: luna_pinyin
+  - schema: luna_pinyin_simp
+  - schema: luna_pinyin_fluency
+  - schema: bopomofo
+  - schema: bopomofo_tw
+  - schema: cangjie5
+  - schema: stroke
+  - schema: terra_pinyin
 
 switcher:
-  caption: 〔方案选单〕
+  caption: 〔方案選單〕
   hotkeys:
     - Control+grave
     - Control+Shift+grave
@@ -51,8 +58,8 @@ recognizer:
 ascii_composer:
   good_old_caps_lock: true
   switch_key:
-    Shift_L: commit_code
-    Shift_R: commit_code
+    Shift_L: inline_ascii
+    Shift_R: commit_text
     Control_L: noop
     Control_R: noop
     Caps_Lock: clear
