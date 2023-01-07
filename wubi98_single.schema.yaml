@@ -2,13 +2,13 @@
 # encoding: utf-8
 
 schema:
-  schema_id: wubi98_mini
-  name: "五笔98极简"
+  schema_id: wubi98_single
+  name: "五笔98单字"
   version: "0.1"
   author:
     - 发明人 王永民
   description: |
-    五笔98极简版
+    五笔98单字版
     码表源自 yanhuacuo
     按 z 键进入拼音反查
   dependencies:

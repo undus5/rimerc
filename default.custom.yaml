@@ -6,4 +6,4 @@ patch:
       Shift_L: commit_code
       Shift_R: commit_code
   schema_list:
-    - schema: wubi98_mini
+    - schema: wubi98_single
