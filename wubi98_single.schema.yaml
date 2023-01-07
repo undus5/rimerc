@@ -48,7 +48,7 @@ speller:
   auto_select_unique_candidate: true
 
 translator:
-  dictionary: wubi98_mini
+  dictionary: wubi98_single
   enable_charset_filter: false
   enable_sentence: false
   enable_encoder: false
