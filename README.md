@@ -4,18 +4,18 @@
 
 包含以下内容：
 
-1. [rime-prelude (官方基础配置)](https://github.com/rime/rime-prelude)
+- [rime-prelude (Rime官方基础配置)](https://github.com/rime/rime-prelude)
 
-2. [rime-pinyin-simp (袖珍简化字拼音)](https://github.com/rime/rime-pinyin-simp)
+- [rime-wubi (五笔86版)](https://github.com/rime/rime-wubi)
 
-3. 个人封装的五笔98输入方案(单字)，拼音反查依赖 `袖珍简化字拼音`
+- [rime-pinyin-simp (袖珍简化字拼音)](https://github.com/rime/rime-pinyin-simp)
 
 ## 各平台配置文件位置
 
 - Linux
+  - [IBus](https://github.com/rime/ibus-rime): ~/.config/ibus/rime
   - [Fcitx 5](https://github.com/fcitx/fcitx-rime): ~/.local/share/fcitx5/rime
   - [Fcitx](https://github.com/fcitx/fcitx-rime): ~/.config/fcitx/rime
-  - [IBus](https://github.com/rime/ibus-rime): ~/.config/ibus/rime
 
 - Windows
   - [Weasel (小狼毫)](https://github.com/rime/weasel): %AppData%\Rime
