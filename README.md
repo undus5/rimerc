@@ -6,7 +6,7 @@
 
 - [rime-prelude (Rime官方基础配置)](https://github.com/rime/rime-prelude)
 
-- [rime-wubi (五笔86版)](https://github.com/rime/rime-wubi)
+- [Rime 86五笔单字方案 - 狂飙](https://github.com/networm/Rime)
 
 - [rime-pinyin-simp (袖珍简化字拼音)](https://github.com/rime/rime-pinyin-simp)
 

@@ -7,5 +7,4 @@ patch:
       Shift_R: commit_code
   schema_list:
     - schema: wubi86
-    - schema: wubi_pinyin
-    - schema: wubi_trad
+    - schema: pinyin_simp
