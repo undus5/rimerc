@@ -1,5 +1,0 @@
-patch:
-  "preset_keyboards/wubi86/import_preset": qwerty0
-  "preset_keyboards/wubi_pinyin/import_preset": qwerty0
-  "preset_keyboards/wubi_trad/import_preset": qwerty0
-  "style/keyboards": [.default, letter, number, symbols, wubi86, wubi_pinyin, wubi_trad]
