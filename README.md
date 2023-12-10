@@ -24,5 +24,7 @@
   - [Squirrel (鼠鬚管)](https://github.com/rime/squirrel): ~/Library/Rime
 
 - Android
-  - [Trime (同文)](https://github.com/osfans/trime): /storage/emulated/0/rime
+  - [Fcitx5 for Android](https://f-droid.org/en/packages/org.fcitx.fcitx5.android/)
+  ([RIME Plugin](https://github.com/fcitx5-android/fcitx5-android))
+  : content://org.fictx.fcitx5.android.provider/document/files/data/rime
 
