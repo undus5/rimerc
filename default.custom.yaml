@@ -8,6 +8,6 @@ patch:
   schema_list:
     - schema: wubi86
     - schema: pinyin_simp
-  # Resolving `Ctrl+~` conflict with VSCode
+  # Resolving "Ctrl+`" conflict with VSCode
   # switcher/hotkeys:
   #   - "Control+Alt+grave"

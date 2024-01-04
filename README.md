@@ -6,9 +6,11 @@
 
 - [rime-prelude (Rime官方基础配置)](https://github.com/rime/rime-prelude)
 
-- [Rime 86五笔单字方案 - 狂飙](https://github.com/networm/Rime)
-
 - [rime-pinyin-simp (袖珍简化字拼音)](https://github.com/rime/rime-pinyin-simp)
+
+- [Rime 86 五笔单字方案 - 狂飙](https://github.com/networm/Rime)
+
+- 默认使用英文标点符号 (可在 Ctrl+` 菜单中切换)
 
 ## 各平台配置文件位置
 

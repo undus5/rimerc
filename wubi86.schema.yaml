@@ -24,6 +24,7 @@ switches:
     states: [ 常用, 增廣 ]
   - name: ascii_punct
     states: [ 。，, ．， ]
+    reset: 1
 
 engine:
   processors:
