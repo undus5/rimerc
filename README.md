@@ -15,9 +15,8 @@
 ## 各平台配置文件位置
 
 - Linux
-  - [IBus](https://github.com/rime/ibus-rime): ~/.config/ibus/rime
   - [Fcitx 5](https://github.com/fcitx/fcitx-rime): ~/.local/share/fcitx5/rime
-  - [Fcitx](https://github.com/fcitx/fcitx-rime): ~/.config/fcitx/rime
+  - [IBus](https://github.com/rime/ibus-rime): ~/.config/ibus/rime
 
 - Windows
   - [Weasel (小狼毫)](https://github.com/rime/weasel): %AppData%\Rime
@@ -27,6 +26,6 @@
 
 - Android
   - [Fcitx5 for Android](https://f-droid.org/en/packages/org.fcitx.fcitx5.android/)
-  ([RIME Plugin](https://github.com/fcitx5-android/fcitx5-android))
+  ([RIME Plugin](https://f-droid.org/en/packages/org.fcitx.fcitx5.android.plugin.rime/))
   : content://org.fictx.fcitx5.android.provider/document/files/data/rime
 
