@@ -10,8 +10,6 @@
 
 - [Rime 86 五笔单字方案 - 狂飙](https://github.com/networm/Rime)
 
-- 默认使用英文标点符号 (可在 Ctrl+` 菜单中切换)
-
 ## 各平台配置文件位置
 
 - Linux
